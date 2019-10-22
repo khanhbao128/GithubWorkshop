@@ -4,3 +4,4 @@ Your name:
  Favorite ice cream flavor? Strawberry
  What is the name of the person sitting to the right and left of you? Sabrina Shelley
  Do you want to contribute to open source in the future? Yes I do 
+ Adding new line
